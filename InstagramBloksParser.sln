@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35122.118
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InstagramBloksParser", "InstagramBloksParser\InstagramBloksParser.csproj", "{9BF33490-E4BD-4813-B605-B6816CDF4FBF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test", "Test\Test.csproj", "{6FA4486B-8A92-4AF0-B4AB-E2335FB540D0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9BF33490-E4BD-4813-B605-B6816CDF4FBF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9BF33490-E4BD-4813-B605-B6816CDF4FBF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9BF33490-E4BD-4813-B605-B6816CDF4FBF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9BF33490-E4BD-4813-B605-B6816CDF4FBF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6FA4486B-8A92-4AF0-B4AB-E2335FB540D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6FA4486B-8A92-4AF0-B4AB-E2335FB540D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6FA4486B-8A92-4AF0-B4AB-E2335FB540D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6FA4486B-8A92-4AF0-B4AB-E2335FB540D0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3429E7A6-AE1C-4B6E-AD2A-C9E105968F24}
+	EndGlobalSection
+EndGlobal
